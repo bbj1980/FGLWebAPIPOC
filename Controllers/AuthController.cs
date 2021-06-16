@@ -15,7 +15,7 @@ namespace FGLWebAPIPOC.Controllers
         {
             return new[]
             {
-            new Configuration { Key = "Key" ,Value="Value"},
+            new Configuration { Key = "ApplicationKey" ,Value="Value"},
 
         };
         }
