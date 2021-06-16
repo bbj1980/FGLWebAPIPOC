@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FscLh71YFo4raNQQ42HiQtFGD8ej412lAMIMJIPAYiV0PIkc29AgqDtUXXu5h9SPYc09qD7Z9j8iPfj372EWSg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\POC\\ASpnetCOre\\FGLWebAPIPOC\\FGLWebAPIPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bharatj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
