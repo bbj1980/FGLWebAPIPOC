@@ -18,3 +18,9 @@ E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\obj\Debug\netcoreapp3.1\FGLWebAPIPOC.Raz
 E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\obj\Debug\netcoreapp3.1\FGLWebAPIPOC.dll
 E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\obj\Debug\netcoreapp3.1\FGLWebAPIPOC.pdb
 E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\obj\Debug\netcoreapp3.1\FGLWebAPIPOC.genruntimeconfig.cache
+E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\obj\Debug\netcoreapp3.1\FGLWebAPIPOC.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\POC\ASpnetCOre\FGLWebAPIPOC\obj\Debug\netcoreapp3.1\FGLWebAPIPOC.csproj.CopyComplete
